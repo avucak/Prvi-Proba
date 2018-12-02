@@ -15,6 +15,7 @@ namespace WindowsFormsApp1
         static void Main()
         {
             Console.WriteLine("Evo nesto za dodat");
+            Console.WriteLine("Promjena");
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
